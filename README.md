@@ -1,5 +1,3 @@
-# demo-mdraihan34988
-demo-mdraihan34988 created by GitHub Classroom
 
 Multiple counter application with react redux.
 
